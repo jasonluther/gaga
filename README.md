@@ -10,19 +10,19 @@
 
 We'll focus on the back yard version. It's a really simple build that can be done in an afternoon with basic tools. 
 
+This design is meant to be as cheap as possible and quick to build. You can certainly use better/more materials and get a nicer result if you are willing to spend more time or money, but we're happy with this version. 
+
 I'll also show how to add a gate to the pit so that you can get a lawn mower into it. 
 
 ### Be safe
 
 Any construction project can be dangerous or fatal, so please take appropriate safety precautions and consult a professional when you need help. 
 
-Use a respirator when cutting wood, especially if it's pressure-treated, and when spreading out dusty materials. Use hearing protection when using power tools. Always wear safety glasses. 
+Use a respirator when cutting wood, especially if it's pressure-treated. Use hearing protection when using power tools. Always wear safety glasses. 
 
-Also, playground equipment can be dangerous or fatal, so consider your audience when choosing the materials and dimensions. 
+Also, playground equipment can be dangerous or fatal, so consider your audience when choosing the materials and dimensions. This project is plenty sturdy for my little ones and their cousins, but you might want to add more brackets or more vertical supports if you expect more climbing or use by older kids. 
 
 I am not a professional, and I am just sharing my experience for information and entertainment purposes. I cannot be held responsible for any damage or injuries that result from actions you take. 
-
-Finally, you'll need to consider your audience when you build this. This project is plenty sturdy for my little ones and their cousins. But you might want to add more brackets or more vertical supports if you expect more climbing or use by older kids. 
 
 ### Steps
 
@@ -38,7 +38,7 @@ These are the steps:
 
 There are three key materials:
 
- * 1x6 pressure-treated lumber (23 8' boards)
+ * https://www.lowes.com/pd/Severe-Weather-Common-1-in-X-6-in-x-8-ft-Actual-0-75-in-x-5-5-in-x-8-ft-Treated-Lumber/4758192 (23 8' boards)
  * [1-1/4" exterior screws](https://www.lowes.com/pd/Grip-Rite-PrimeGuard-Plus-8-x-1-1-4-in-Gold-Polymer-Deck-Screws-1-lb/1000118269) to join everything together (about 100)
  * [Framing angles](https://amzn.to/2FYDrZh) to connect the sections (12)
 
@@ -47,6 +47,8 @@ The framing angles that make the connection are what make this project so simple
 ![Connection](img/connector.jpg)
 
 Use screws that are compatible with pressure-treated lumber. 
+
+The total cost of materials should be around $200. 
 
 ### Dimensions
 
@@ -79,7 +81,6 @@ None of this content is otherwise sponsored.
 ## Tools
 
 ![With gate](img/with-gate.jpg)
-
 
 This project requires minimal tools. The only essential is something to drive screws, and it doesn't have to be a powerful drill/driver. 
 
@@ -154,4 +155,3 @@ Like any respectable playground game, there are many variations of the rules. Th
 3. If the ball hits you at the knees or below, you're out. You have to leave the pit. 
 4. If you hit the ball out of the pit, you're out. 
 5. The last one standing wins. 
-
