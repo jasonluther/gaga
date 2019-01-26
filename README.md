@@ -14,6 +14,8 @@ This design is meant to be as cheap as possible and quick to build. You can cert
 
 I'll also show how to add a gate to the pit so that you can get a lawn mower into it. 
 
+You can also see this guide on [Instructables](https://www.instructables.com/id/Gaga-Pit/). 
+
 ### Be safe
 
 Any construction project can be dangerous or fatal, so please take appropriate safety precautions and consult a professional when you need help. 
