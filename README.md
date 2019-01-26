@@ -38,7 +38,7 @@ These are the steps:
 
 There are three key materials:
 
- * https://www.lowes.com/pd/Severe-Weather-Common-1-in-X-6-in-x-8-ft-Actual-0-75-in-x-5-5-in-x-8-ft-Treated-Lumber/4758192 (23 8' boards)
+ * [1x6 pressure-treated lumber](https://www.lowes.com/pd/Severe-Weather-Common-1-in-X-6-in-x-8-ft-Actual-0-75-in-x-5-5-in-x-8-ft-Treated-Lumber/4758192) (23 8' boards)
  * [1-1/4" exterior screws](https://www.lowes.com/pd/Grip-Rite-PrimeGuard-Plus-8-x-1-1-4-in-Gold-Polymer-Deck-Screws-1-lb/1000118269) to join everything together (about 100)
  * [Framing angles](https://amzn.to/2FYDrZh) to connect the sections (12)
 
