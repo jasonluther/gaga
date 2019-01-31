@@ -42,7 +42,7 @@ There are three key materials:
 
  * [1x6 pressure-treated lumber](https://www.lowes.com/pd/Severe-Weather-Common-1-in-X-6-in-x-8-ft-Actual-0-75-in-x-5-5-in-x-8-ft-Treated-Lumber/4758192) (23 8' boards)
  * [1-1/4" exterior screws](https://www.lowes.com/pd/Grip-Rite-PrimeGuard-Plus-8-x-1-1-4-in-Gold-Polymer-Deck-Screws-1-lb/1000118269) to join everything together (about 100)
- * [Framing angles](https://amzn.to/2FYDrZh) to connect the sections (12)
+ * Framing angles to connect the sections (12)
 
 The framing angles that make the connection are what make this project so simple. 
 
@@ -74,11 +74,7 @@ If you add in the gate, you'll need two more vertical supports. You may notice s
 
 ### Sources
 
-I have included links to some of the materials and tools I used. Some of those are affiliate links, so I may earn a commission on purchases made through those links. 
-
-However, I would much prefer if you bought these things from a local supplier instead of Amazon. With any DIY project, you're likely to make multiple trips to the store, and you're going to want advice from experts. 
-
-None of this content is otherwise sponsored.
+I have included links to some of the materials and tools I used. The materials for this project are available at a typical big box home center. None of this content is sponsored.
 
 ## Tools
 
@@ -88,18 +84,18 @@ This project requires minimal tools. The only essential is something to drive sc
 
 A hand saw is sufficient, and your lumber supplier might be able to cut the vertical pieces for you. 
 
-You don't even need a [tape measure](https://amzn.to/2MxqruF)! I chose the vertical support dimensions by stacking up 5 boards. Once you've cut one, use it to mark and cut the rest. 
+You don't even need a tape measure! I chose the vertical support dimensions by stacking up 5 boards. Once you've cut one, use it to mark and cut the rest. 
 
 Here's what I used: 
 
- * [Drill](https://amzn.to/2ymaIIh)/[driver](https://amzn.to/2ymm27v) for attaching boards
- * [Hammer](https://amzn.to/2CMGNuX) for bending the brackets to the right angle
- * [Saw](https://amzn.to/2IHGRyX) for cutting boards
- * [Speed square](https://amzn.to/2yhrnN2), a guide for making circular saw cuts and squaring up each section: $8
+ * Drill/driver for attaching boards
+ * Hammer for bending the brackets to the right angle
+ * Saw for cutting boards
+ * Speed square, a guide for making circular saw cuts and squaring up each section
  * Safety
-   * [Ear protection](https://amzn.to/2OZ2du3): $22
-   * [Safety glasses](https://amzn.to/2NMfDNc): $7
-   * [Respirator](https://amzn.to/2NsngU4) with [3M 2097](https://amzn.to/2C1Dh1c) cartridge: $24
+   * Ear protection
+   * Safety glasses
+   * Respirator with 3M 2097 cartridge
 
 ## Assembly
 
@@ -120,11 +116,11 @@ At this point, you're ready to play Gaga!
 
 ## Add a Gate 
 
-In order to get a lawn mower into the pit, I turned one of the sides into a gate. Because I hadn't planned for this initially, it was a bit awkward to add one. The solution was to add two more vertical supports, add [hinges](https://amzn.to/2FLDFU8) and [latches](https://www.lowes.com/pd/Gatehouse-3-1-2-in-Zinc-Swivel-Hasps/4777888), and then cut out the gate. 
+In order to get a lawn mower into the pit, I turned one of the sides into a gate. Because I hadn't planned for this initially, it was a bit awkward to add one. The solution was to add two more vertical supports, add hinges and [latches](https://www.lowes.com/pd/Gatehouse-3-1-2-in-Zinc-Swivel-Hasps/4777888), and then cut out the gate. 
 
 ![Gate](img/gate-open-wide.jpg)
 
-One the left side, I attached a vertical support, leaving space for the hinge knuckle. Then I attached [two hinges](https://amzn.to/2FLDFU8). Any hinges that are strong enough will do. 
+One the left side, I attached a vertical support, leaving space for the hinge knuckle. Then I attached two hinges. Any hinges that are strong enough will do. 
 
 ![Hinges](img/hinge.jpg)
 
@@ -148,7 +144,7 @@ Gaga is a fun game for the whole family. It's a tamer version of dodgeball.
 
 ![Play!](img/play.jpg)
 
-For a harder surface, like our bocce court, a [kickball](https://amzn.to/2ThCQWk) is great. But for grass, you will want something lighter, like the kind of bouncy ball you'd get in the grocery store toy section. 
+For a harder surface, like our bocce court, a kickball is great. But for grass, you will want something lighter, like the kind of bouncy ball you'd get in the grocery store toy section. 
 
 Like any respectable playground game, there are many variations of the rules. These are the basics:
 
