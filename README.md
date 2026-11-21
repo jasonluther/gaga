@@ -16,7 +16,7 @@ I'll also show how to add a gate to the pit so that you can get a lawn mower int
 
 You can also see this guide on [Instructables](https://www.instructables.com/id/Gaga-Pit/).
 
-### Be safe
+## Be safe
 
 Any construction project can be dangerous or fatal, so please take appropriate safety precautions and consult a professional when you need help.
 
@@ -26,7 +26,7 @@ Also, playground equipment can be dangerous or fatal, so consider your audience 
 
 I am not a professional, and I am just sharing my experience for information and entertainment purposes. I cannot be held responsible for any damage or injuries that result from actions you take.
 
-### Steps
+## Steps
 
 These are the steps:
 
